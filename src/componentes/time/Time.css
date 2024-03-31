@@ -1,0 +1,23 @@
+.container__card{
+    text-align: center;
+    min-height: 25em;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+
+.titulo-card{
+    
+    display: inline-block;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: var(--font-secundaria);
+    border-bottom: 4px solid;
+    padding: 1.5em 0 8px;
+    
+}
+
+.container__time-cards{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,19 @@
+.Container__cria-card{
+    display: block;
+    background-color: #F6F6F6;
+    margin: 5em auto;
+    width: 60vw;
+    padding: 3em 3em;
+    border-radius: 20px; 
+}
+
+.Titulo__cria-card{
+    font-family: var(--font-secundaria);
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.campo-card{
+    margin-top: auto;
+}
+

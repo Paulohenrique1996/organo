@@ -1,0 +1,36 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-height: 10em;
+    background-color: #6278F7;
+    overflow: hidden;
+    background: url('/public/img/fundo-moba.jpeg') no-repeat center/100% 300px;
+    
+    
+   
+ }
+ .footer__conteudo{
+    display: flex;
+    width: 100vw;
+    align-items:center;
+    justify-content: space-around;
+    padding: 2.5em;
+    
+    
+ }
+ .footer__social-img{
+   
+    height: 2vw;
+    margin-left: 1em;
+ }
+
+ .footer__text{
+    font-size: 2vw;
+    font-weight: 500;
+    color: #ffffff;
+ }
+
+ .footer__organo{
+   width: 20vw;
+ }
